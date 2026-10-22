@@ -3,7 +3,7 @@
 
 ---
 
-## QUICK REFERENCE TABLE - All 47 Marinas by Distance from Whitehall
+## QUICK REFERENCE TABLE - All 52 Marinas by Distance from Whitehall
 
 | # | Marina Name | Location | Miles from Whitehall | GPS Coordinates | Type | Transient |
 |---|------------|----------|---------------------|-----------------|------|-----------|
@@ -16,43 +16,49 @@
 | 7 | Bridgeview Harbour Marina | Port Henry, NY | 33.4 | 44.04154°N, -73.45805°W | Full-Service | Yes (4 slips) |
 | 8 | Port Henry Marina | Port Henry, NY | 33.7 | 44.04500°N, -73.46000°W | Members Only | No |
 | 9 | Westport Marina | Westport, NY | 43.1 | 44.18250°N, -73.42778°W | Full-Service | Yes (40+ slips) |
-| 10 | Point Bay Marina | Charlotte, VT | 49.8 | 44.27488°N, -73.28518°W | Full-Service | Yes (10 slips) |
-| 11 | Charlotte Sailing Center | Charlotte, VT | 51.5 | 44.30100°N, -73.29469°W | Basic/DIY | Limited |
-| 12 | Essex Marina | Essex, NY | 51.7 | 44.30717°N, -73.34950°W | Historic/DIY | Yes (15 slips) |
-| 13 | Safe Harbor Willsboro Bay | Willsboro, NY | 58.4 | 44.40482°N, -73.39423°W | Full-Service | Yes (15 slips) |
-| 14 | Lake Champlain Yacht Club | Shelburne, VT | 59.4 | 44.41213°N, -73.25278°W | Yacht Club | Members Only |
-| 15 | Indian Bay Marina | Willsboro, NY | 60.0 | 44.42767°N, -73.39350°W | Full-Service | Yes (4 slips) |
-| 16 | Safe Harbor Shelburne Shipyard | Shelburne, VT | 60.9 | 44.43440°N, -73.24849°W | Full-Service | Yes (5 slips) |
-| 17 | Perkins Pier Marina | Burlington, VT | 63.9 | 44.47500°N, -73.22000°W | City Marina | Limited |
-| 18 | Burlington Community Boathouse | Burlington, VT | 64.0 | 44.47703°N, -73.22262°W | City Marina | Yes |
-| 19 | Ferry Dock Marina | Burlington, VT | 64.1 | 44.47833°N, -73.22500°W | Full-Service | Yes |
-| 20 | Burlington Harbor Marina | Burlington, VT | 64.3 | 44.48178°N, -73.22483°W | Full-Service | Yes (60+ slips) |
-| 21 | Bay Harbor Marina | Colchester, VT | 68.3 | 44.54000°N, -73.22500°W | Full-Service | Yes |
-| 22 | The Moorings Marina | Colchester, VT | 68.9 | 44.54792°N, -73.22169°W | Full-Service | Yes (10 slips) |
-| 23 | Champlain Marina | Colchester, VT | 69.3 | 44.55500°N, -73.23000°W | Full-Service/DIY | Yes |
-| 24 | Marina at Marble Island | Colchester, VT | 70.3 | 44.56978°N, -73.23229°W | Resort Marina | Yes (16 slips) |
-| 25 | Coates Island Marina | Colchester, VT | 70.3 | 44.57000°N, -73.23500°W | Full-Service | Contact |
-| 26 | Malletts Bay Boat Club | Colchester, VT | 70.7 | 44.57500°N, -73.22500°W | Yacht Club | Members Only |
-| 27 | Champlain Boatworks/Snug Harbour | Plattsburgh, NY | 73.6 | 44.62469°N, -73.44831°W | Dealership/Marina | Yes (83 slips) |
-| 28 | Keeler Bay Marina | South Hero, VT | 75.9 | 44.65636°N, -73.31951°W | Seasonal/Campground | Seasonal |
-| 29 | Apple Island Resort Marina | South Hero, VT | 76.0 | 44.65752°N, -73.31830°W | Resort Marina | Yes |
-| 30 | Plattsburgh Boat Basin | Plattsburgh, NY | 78.6 | 44.69654°N, -73.44234°W | Full-Service | Yes |
-| 31 | Plattsburgh City Marina | Plattsburgh, NY | 78.7 | 44.69726°N, -73.44439°W | Municipal | Yes (12 slips) |
-| 32 | Treadwell Bay Marina & Resort | Plattsburgh, NY | 82.3 | 44.74981°N, -73.41578°W | Resort Marina | Yes (10 slips) |
-| 33 | Burton Island Marina (State Park) | Burton Island, VT | 84.7 | 44.77694°N, -73.19694°W | State Park | Yes (100 slips) |
-| 34 | Mooney Bay Marina | Plattsburgh, NY | 84.8 | 44.78707°N, -73.36834°W | Storage/Service | Yes |
-| 35 | Ladd's Landing Marina | Grand Isle, VT | 87.0 | 44.81667°N, -73.31667°W | Full-Service | Yes |
-| 36 | Gilbert Brook Marina (Monty's Bay) | West Chazy, NY | 87.1 | 44.81992°N, -73.40006°W | Full-Service/Campground | Yes (10 slips) |
-| 37 | St. Albans Bay Marina | St. Albans Bay, VT | 87.8 | 44.81500°N, -73.12500°W | Full-Service | Yes |
-| 38 | North Hero Marina | North Hero, VT | 88.2 | 44.83433°N, -73.30142°W | Full-Service | Yes |
-| 39 | Chazy Yacht Club | Chazy, NY | 91.3 | 44.88000°N, -73.43000°W | Full-Service | Contact |
-| 40 | B&B Marina | Chazy, NY | 91.6 | 44.88500°N, -73.43500°W | Small Marina | Contact |
-| 41 | Lakehurst Campground and Marina | Isle La Motte, VT | 92.7 | 44.90000°N, -73.32000°W | Campground Marina | Seasonal |
-| 42 | Safe Harbor Gaines | Rouses Point, NY | 98.9 | 44.99073°N, -73.36384°W | Full-Service | Yes (10 slips) |
-| 43 | Barcombs Marina | Rouses Point, NY | 99.3 | 44.99610°N, -73.35580°W | Full-Service | Yes |
-| 44 | Lighthouse Marina | Rouses Point, NY | 99.4 | 44.99700°N, -73.35700°W | DIY-Friendly | Yes |
-| 45 | Rouses Point Yacht Club Inc. | Rouses Point, NY | 99.6 | 45.00000°N, -73.36500°W | Yacht Club | Contact |
-| 46 | Rouses Point Yacht Club (Alburgh) | Alburgh, VT | 100.3 | 45.01000°N, -73.31000°W | Yacht Club | Contact |
+| 10 | Basin Harbor Boat Club | Vergennes, VT | 44.0 | 44.19627°N, -73.36350°W | Resort Marina | Yes (10 slips) |
+| 11 | Point Bay Marina | Charlotte, VT | 49.8 | 44.27488°N, -73.28518°W | Full-Service | Yes (10 slips) |
+| 12 | Charlotte Sailing Center | Charlotte, VT | 51.5 | 44.30100°N, -73.29469°W | Basic/DIY | Limited |
+| 13 | Essex Marina | Essex, NY | 51.7 | 44.30717°N, -73.34950°W | Historic/DIY | Yes (15 slips) |
+| 14 | Old Dock House & Marina | Essex, NY | 51.9 | 44.31019°N, -73.35017°W | Restaurant/Marina | Yes (5 slips) |
+| 15 | Safe Harbor Willsboro Bay | Willsboro, NY | 58.4 | 44.40482°N, -73.39423°W | Full-Service | Yes (15 slips) |
+| 16 | Lake Champlain Yacht Club | Shelburne, VT | 59.4 | 44.41213°N, -73.25278°W | Yacht Club | Members Only |
+| 17 | Indian Bay Marina | Willsboro, NY | 60.0 | 44.42767°N, -73.39350°W | Full-Service | Yes (4 slips) |
+| 18 | Safe Harbor Shelburne Shipyard | Shelburne, VT | 60.9 | 44.43440°N, -73.24849°W | Full-Service | Yes (5 slips) |
+| 19 | Perkins Pier Marina | Burlington, VT | 63.9 | 44.47500°N, -73.22000°W | City Marina | Limited |
+| 20 | Burlington Community Boathouse | Burlington, VT | 64.0 | 44.47703°N, -73.22262°W | City Marina | Yes |
+| 21 | Ferry Dock Marina | Burlington, VT | 64.1 | 44.47833°N, -73.22500°W | Full-Service | Yes |
+| 22 | Burlington Harbor Marina | Burlington, VT | 64.3 | 44.48178°N, -73.22483°W | Full-Service | Yes (60+ slips) |
+| 23 | Bay Harbor Marina | Colchester, VT | 68.3 | 44.54000°N, -73.22500°W | Full-Service | Yes |
+| 24 | The Moorings Marina | Colchester, VT | 68.9 | 44.54792°N, -73.22169°W | Full-Service | Yes (10 slips) |
+| 25 | Champlain Marina | Colchester, VT | 69.3 | 44.55500°N, -73.23000°W | Full-Service/DIY | Yes |
+| 26 | Coates Island Marina | Colchester, VT | 70.3 | 44.57000°N, -73.23500°W | Full-Service | Contact |
+| 27 | Marina at Marble Island | Colchester, VT | 70.3 | 44.56978°N, -73.23229°W | Resort Marina | Yes (16 slips) |
+| 28 | Malletts Bay Boat Club | Colchester, VT | 70.7 | 44.57500°N, -73.22500°W | Yacht Club | Members Only |
+| 29 | Champlain Boatworks/Snug Harbour | Plattsburgh, NY | 73.6 | 44.62469°N, -73.44831°W | Dealership/Marina | Yes (83 slips) |
+| 30 | Keeler Bay Marina | South Hero, VT | 75.9 | 44.65636°N, -73.31951°W | Seasonal/Campground | Seasonal |
+| 31 | Apple Island Resort Marina | South Hero, VT | 76.0 | 44.65752°N, -73.31830°W | Resort Marina | Yes |
+| 32 | Naked Turtle | Plattsburgh, NY | 78.6 | 44.69612°N, -73.44204°W | Restaurant/Marina | Yes (15 slips) |
+| 33 | Plattsburgh Boat Basin | Plattsburgh, NY | 78.6 | 44.69654°N, -73.44234°W | Full-Service | Yes |
+| 34 | Plattsburgh City Marina | Plattsburgh, NY | 78.7 | 44.69726°N, -73.44439°W | Municipal | Yes (12 slips) |
+| 35 | Treadwell Bay Marina & Resort | Plattsburgh, NY | 82.3 | 44.74981°N, -73.41578°W | Resort Marina | Yes (10 slips) |
+| 36 | Burton Island Marina (State Park) | Burton Island, VT | 84.7 | 44.77694°N, -73.19694°W | State Park | Yes (100 slips) |
+| 37 | Mooney Bay Marina | Plattsburgh, NY | 84.8 | 44.78707°N, -73.36834°W | Storage/Service | Yes |
+| 38 | Ladd's Landing Marina | Grand Isle, VT | 87.0 | 44.81667°N, -73.31667°W | Full-Service | Yes |
+| 39 | Gilbert Brook Marina (Monty's Bay) | West Chazy, NY | 87.1 | 44.81992°N, -73.40006°W | Full-Service/Campground | Yes (10 slips) |
+| 40 | St. Albans Bay Marina | St. Albans Bay, VT | 87.8 | 44.81500°N, -73.12500°W | Full-Service | Yes |
+| 41 | North Hero Marina | North Hero, VT | 88.2 | 44.83433°N, -73.30142°W | Full-Service | Yes |
+| 42 | Hero's Welcome Marina | North Hero, VT | 88.5 | 44.83750°N, -73.29000°W | General Store/Marina | Yes |
+| 43 | Chazy Yacht Club | Chazy, NY | 91.3 | 44.88000°N, -73.43000°W | Full-Service | Contact |
+| 44 | B&B Marina | Chazy, NY | 91.6 | 44.88500°N, -73.43500°W | Small Marina | Contact |
+| 45 | New England Powerboat / Bridge Road Marina | North Hero, VT | 91.8 | 44.88508°N, -73.27216°W | Service/Dealership Marina | Contact |
+| 46 | Lakehurst Campground and Marina | Isle La Motte, VT | 92.7 | 44.90000°N, -73.32000°W | Campground Marina | Seasonal |
+| 47 | Goose Point Campground & Marina | Alburgh, VT | 94.3 | 44.92088°N, -73.27345°W | Campground Marina | Seasonal |
+| 48 | Safe Harbor Gaines | Rouses Point, NY | 98.9 | 44.99073°N, -73.36384°W | Full-Service | Yes (10 slips) |
+| 49 | Barcombs Marina | Rouses Point, NY | 99.3 | 44.99610°N, -73.35580°W | Full-Service | Yes |
+| 50 | Lighthouse Marina | Rouses Point, NY | 99.4 | 44.99700°N, -73.35700°W | DIY-Friendly | Yes |
+| 51 | Rouses Point Yacht Club Inc. | Rouses Point, NY | 99.6 | 45.00000°N, -73.36500°W | Yacht Club | Contact |
+| 52 | Rouses Point Yacht Club (Alburgh) | Alburgh, VT | 100.3 | 45.01000°N, -73.31000°W | Yacht Club | Contact |
 
 **Note:** "Miles from Whitehall" represents straight-line distance. Actual navigation distance will be greater due to the lake's natural curves and channels.
 
@@ -193,7 +199,21 @@
 
 ---
 
-### 10. **Point Bay Marina** - Mile 49.8
+### 10. **Basin Harbor Boat Club** - Mile 44.0
+- **Location:** Vergennes, VT
+- **Address:** 4800 Basin Harbor Road, Vergennes, VT 05491
+- **GPS:** 44.19627°N, -73.36350°W
+- **Phone:** (802) 475-2311
+- **Website:** basinharbor.com/the-boat-club
+- **Slips:** 66 total, 10 transient
+- **Services:** Fuel, pump-out, dockage with power and water
+- **Amenities:** Resort dining, lodging, golf course, pool, tennis, boat rentals
+- **Business Focus:** Resort marina attached to the historic Basin Harbor resort
+- **Notes:** Sheltered harbor on the Vermont shore between Westport and Charlotte. Confirm transient availability with the dockmaster; resort guests have priority.
+
+---
+
+### 11. **Point Bay Marina** - Mile 49.8
 - **Location:** Charlotte, VT
 - **Address:** 1401 Thompson's Point Road, Charlotte, VT 05445
 - **GPS:** 44.27488°N, -73.28518°W
@@ -210,7 +230,7 @@
 
 ---
 
-### 11. **Charlotte Sailing Center** - Mile 51.5
+### 12. **Charlotte Sailing Center** - Mile 51.5
 - **Location:** Charlotte, VT
 - **Address:** 38 Converse Bay Road, Charlotte, VT 05445
 - **GPS:** 44.30100°N, -73.29469°W
@@ -224,7 +244,7 @@
 
 ---
 
-### 12. **Essex Marina** - Mile 51.7
+### 13. **Essex Marina** - Mile 51.7
 - **Location:** Essex, NY
 - **Address:** 2272 Main Street, Essex, NY 12936
 - **GPS:** 44.30717°N, -73.34950°W
@@ -244,7 +264,21 @@
 
 ---
 
-### 13. **Safe Harbor Willsboro Bay** - Mile 58.4
+### 14. **Old Dock House & Marina** - Mile 51.9
+- **Location:** Essex, NY
+- **Address:** Lake Shore Road, Essex, NY 12936
+- **GPS:** 44.31019°N, -73.35017°W
+- **Phone:** (518) 963-4232
+- **Website:** theolddock.com
+- **Slips:** 20 total, 5 transient
+- **Services:** Fuel, transient dockage
+- **Amenities:** Waterfront restaurant and bar, restrooms
+- **Business Focus:** Restaurant with docks for boaters, next to the Essex ferry landing
+- **Notes:** Dock-and-dine stop in the historic village of Essex; a short walk from Essex Marina.
+
+---
+
+### 15. **Safe Harbor Willsboro Bay** - Mile 58.4
 - **Location:** Willsboro, NY
 - **Address:** 25 Klein Way, Willsboro, NY 12996
 - **GPS:** 44.40482°N, -73.39423°W
@@ -261,7 +295,7 @@
 
 ---
 
-### 14. **Lake Champlain Yacht Club** - Mile 59.4
+### 16. **Lake Champlain Yacht Club** - Mile 59.4
 - **Location:** Shelburne, VT
 - **Address:** 2790 Harbor Road, Shelburne, VT 05482
 - **GPS:** 44.41213°N, -73.25278°W
@@ -273,7 +307,7 @@
 
 ---
 
-### 15. **Indian Bay Marina** - Mile 60.0
+### 17. **Indian Bay Marina** - Mile 60.0
 - **Location:** Willsboro, NY
 - **Address:** 237 Corlear Drive, Willsboro, NY 12996
 - **GPS:** 44.42767°N, -73.39350°W
@@ -293,7 +327,7 @@
 
 ---
 
-### 16. **Safe Harbor Shelburne Shipyard** - Mile 60.9
+### 18. **Safe Harbor Shelburne Shipyard** - Mile 60.9
 - **Location:** Shelburne, VT
 - **Address:** 4584 Harbor Road, Shelburne, VT 05482
 - **GPS:** 44.43440°N, -73.24849°W
@@ -312,7 +346,7 @@
 
 ---
 
-### 17. **Perkins Pier Marina** - Mile 63.9
+### 19. **Perkins Pier Marina** - Mile 63.9
 - **Location:** Burlington, VT
 - **Address:** Base of Maple Street, Burlington, VT 05401
 - **GPS:** 44.47500°N, -73.22000°W
@@ -328,7 +362,7 @@
 
 ---
 
-### 18. **Burlington Community Boathouse** - Mile 64.0
+### 20. **Burlington Community Boathouse** - Mile 64.0
 - **Location:** Burlington, VT
 - **Address:** 1 College Street, Burlington, VT 05401
 - **GPS:** 44.47703°N, -73.22262°W
@@ -344,7 +378,7 @@
 
 ---
 
-### 19. **Ferry Dock Marina** - Mile 64.1
+### 21. **Ferry Dock Marina** - Mile 64.1
 - **Location:** Burlington, VT
 - **Address:** 1 King Street Dock, Burlington, VT 05401
 - **GPS:** 44.47833°N, -73.22500°W
@@ -358,7 +392,7 @@
 
 ---
 
-### 20. **Burlington Harbor Marina** - Mile 64.3
+### 22. **Burlington Harbor Marina** - Mile 64.3
 - **Location:** Burlington, VT
 - **Address:** 75 Penny Lane, Burlington, VT 05401
 - **GPS:** 44.48178°N, -73.22483°W
@@ -375,7 +409,7 @@
 
 ---
 
-### 21. **Bay Harbor Marina** - Mile 68.3
+### 23. **Bay Harbor Marina** - Mile 68.3
 - **Location:** Colchester, VT
 - **Address:** 278 West Lakeshore Drive, Colchester, VT 05446
 - **GPS:** 44.54000°N, -73.22500°W
@@ -388,7 +422,7 @@
 
 ---
 
-### 22. **The Moorings Marina** - Mile 68.9
+### 24. **The Moorings Marina** - Mile 68.9
 - **Location:** Colchester, VT
 - **Address:** 332 West Lakeshore Drive, Colchester, VT 05446
 - **GPS:** 44.54792°N, -73.22169°W
@@ -405,7 +439,7 @@
 
 ---
 
-### 23. **Champlain Marina** - Mile 69.3
+### 25. **Champlain Marina** - Mile 69.3
 - **Location:** Colchester, VT
 - **Address:** 982 West Lakeshore Drive, Colchester, VT 05446
 - **GPS:** 44.55500°N, -73.23000°W
@@ -424,7 +458,21 @@
 
 ---
 
-### 24. **Marina at Marble Island** - Mile 70.3
+### 26. **Coates Island Marina** - Mile 70.3
+- **Location:** Colchester, VT
+- **Address:** 161 Coates Island Road, Colchester, VT 05446
+- **GPS:** 44.57000°N, -73.23500°W
+- **Phone:** (802) 863-2300
+- **Email:** dcoates802@aol.com
+- **Website:** coatesislandmarinavt.com
+- **Slips:** Seasonal slips available
+- **Moorings:** Available
+- **Transient:** Contact marina
+- **Business Focus:** Family-friendly marina (operating since 1910), affordable dockage
+
+---
+
+### 27. **Marina at Marble Island** - Mile 70.3
 - **Location:** Colchester, VT
 - **Address:** 1378 Marble Island Road, Colchester, VT 05446
 - **GPS:** 44.56978°N, -73.23229°W
@@ -441,21 +489,7 @@
 
 ---
 
-### 25. **Coates Island Marina** - Mile 70.3
-- **Location:** Colchester, VT
-- **Address:** 161 Coates Island Road, Colchester, VT 05446
-- **GPS:** 44.57000°N, -73.23500°W
-- **Phone:** (802) 863-2300
-- **Email:** dcoates802@aol.com
-- **Website:** coatesislandmarinavt.com
-- **Slips:** Seasonal slips available
-- **Moorings:** Available
-- **Transient:** Contact marina
-- **Business Focus:** Family-friendly marina (operating since 1910), affordable dockage
-
----
-
-### 26. **Malletts Bay Boat Club** - Mile 70.7
+### 28. **Malletts Bay Boat Club** - Mile 70.7
 - **Location:** Colchester, VT
 - **Address:** 662 West Lakeshore Drive, Colchester, VT 05446
 - **GPS:** 44.57500°N, -73.22500°W
@@ -468,7 +502,7 @@
 
 ---
 
-### 27. **Champlain Boatworks/Snug Harbour** - Mile 73.6
+### 29. **Champlain Boatworks/Snug Harbour** - Mile 73.6
 - **Location:** Plattsburgh, NY
 - **Address:** 4013 State Route 9, Plattsburgh, NY 12901
 - **GPS:** 44.62469°N, -73.44831°W
@@ -484,7 +518,7 @@
 
 ---
 
-### 28. **Keeler Bay Marina** - Mile 75.9
+### 30. **Keeler Bay Marina** - Mile 75.9
 - **Location:** South Hero, VT
 - **Address:** 466 US Route 2, South Hero, VT 05486
 - **GPS:** 44.65636°N, -73.31951°W
@@ -500,7 +534,7 @@
 
 ---
 
-### 29. **Apple Island Resort Marina** - Mile 76.0
+### 31. **Apple Island Resort Marina** - Mile 76.0
 - **Location:** South Hero, VT
 - **Address:** 71 US Route 2, South Hero, VT 05486
 - **GPS:** 44.65752°N, -73.31830°W
@@ -517,7 +551,21 @@
 
 ---
 
-### 30. **Plattsburgh Boat Basin** - Mile 78.6
+### 32. **Naked Turtle** - Mile 78.6
+- **Location:** Plattsburgh, NY
+- **Address:** 1 Dock Street, Plattsburgh, NY 12901
+- **GPS:** 44.69612°N, -73.44204°W
+- **Phone:** (518) 566-6200
+- **Website:** nakedturtle.net
+- **Slips:** 50 total, 15 transient
+- **Services:** Fuel, transient dockage
+- **Amenities:** Waterfront restaurant and bar, live music, restrooms
+- **Business Focus:** Dock-and-dine restaurant marina on the Plattsburgh waterfront
+- **Notes:** Sits between Plattsburgh Boat Basin and the City Marina; seasonal.
+
+---
+
+### 33. **Plattsburgh Boat Basin** - Mile 78.6
 - **Location:** Plattsburgh, NY
 - **Address:** 5 Dock Street, Plattsburgh, NY 12901
 - **GPS:** 44.69654°N, -73.44234°W
@@ -531,7 +579,7 @@
 
 ---
 
-### 31. **Plattsburgh City Marina** - Mile 78.7
+### 34. **Plattsburgh City Marina** - Mile 78.7
 - **Location:** Plattsburgh, NY
 - **Address:** 2-3 Dock Street, Plattsburgh, NY 12901
 - **GPS:** 44.69726°N, -73.44439°W
@@ -546,7 +594,7 @@
 
 ---
 
-### 32. **Treadwell Bay Marina & Resort** - Mile 82.3
+### 35. **Treadwell Bay Marina & Resort** - Mile 82.3
 - **Location:** Plattsburgh, NY
 - **Address:** 214 Bouchard Drive, Plattsburgh, NY 12901
 - **GPS:** 44.74981°N, -73.41578°W
@@ -563,7 +611,7 @@
 
 ---
 
-### 33. **Burton Island Marina (State Park)** - Mile 84.7
+### 36. **Burton Island Marina (State Park)** - Mile 84.7
 - **Location:** Burton Island, VT
 - **Address:** Burton Island State Park, VT
 - **GPS:** 44.77694°N, -73.19694°W
@@ -582,7 +630,7 @@
 
 ---
 
-### 34. **Mooney Bay Marina** - Mile 84.8
+### 37. **Mooney Bay Marina** - Mile 84.8
 - **Location:** Plattsburgh, NY
 - **Address:** 15 Mooney Bay Drive, Plattsburgh, NY 12901
 - **GPS:** 44.78707°N, -73.36834°W
@@ -598,7 +646,7 @@
 
 ---
 
-### 35. **Ladd's Landing Marina** - Mile 87.0
+### 38. **Ladd's Landing Marina** - Mile 87.0
 - **Location:** Grand Isle, VT
 - **Address:** 412 US Route 2, Grand Isle, VT 05458
 - **GPS:** 44.81667°N, -73.31667°W
@@ -616,7 +664,7 @@
 
 ---
 
-### 36. **Gilbert Brook Marina (Monty's Bay)** - Mile 87.1
+### 39. **Gilbert Brook Marina (Monty's Bay)** - Mile 87.1
 - **Location:** West Chazy, NY
 - **Address:** 715 Lake Shore Road, West Chazy, NY 12992
 - **GPS:** 44.81992°N, -73.40006°W
@@ -638,7 +686,7 @@
 
 ---
 
-### 37. **St. Albans Bay Marina** - Mile 87.8
+### 40. **St. Albans Bay Marina** - Mile 87.8
 - **Location:** St. Albans Bay, VT
 - **Address:** St. Albans Bay, VT
 - **GPS:** 44.81500°N, -73.12500°W
@@ -655,7 +703,7 @@
 
 ---
 
-### 38. **North Hero Marina** - Mile 88.2
+### 41. **North Hero Marina** - Mile 88.2
 - **Location:** North Hero, VT
 - **Address:** 2253 Pelots Point Road, North Hero, VT 05474
 - **GPS:** 44.83433°N, -73.30142°W
@@ -676,7 +724,20 @@
 
 ---
 
-### 39. **Chazy Yacht Club** - Mile 91.3
+### 42. **Hero's Welcome Marina** - Mile 88.5
+- **Location:** North Hero, VT
+- **Address:** 3537 US Route 2, North Hero, VT 05474
+- **GPS:** 44.83750°N, -73.29000°W (approximate - City Bay, North Hero village)
+- **Phone:** (802) 372-4161
+- **Website:** heroswelcome.com
+- **Services:** Fuel dock, transient dockage, pump-out
+- **Amenities:** General store, deli and bakery, ice, bike and kayak rentals, restrooms
+- **Business Focus:** General store with a fuel dock and docks for visiting boaters on City Bay
+- **Notes:** A classic stop in the Islands region. Confirm dock depth and space for larger vessels before arrival.
+
+---
+
+### 43. **Chazy Yacht Club** - Mile 91.3
 - **Location:** Chazy, NY
 - **Address:** Great Chazy River, NY
 - **GPS:** 44.88000°N, -73.43000°W
@@ -690,7 +751,7 @@
 
 ---
 
-### 40. **B&B Marina** - Mile 91.6
+### 44. **B&B Marina** - Mile 91.6
 - **Location:** Chazy, NY
 - **Address:** Great Chazy River, NY
 - **GPS:** 44.88500°N, -73.43500°W
@@ -702,7 +763,19 @@
 
 ---
 
-### 41. **Lakehurst Campground and Marina** - Mile 92.7
+### 45. **New England Powerboat / Bridge Road Marina** - Mile 91.8
+- **Location:** North Hero, VT
+- **Address:** 132 Bridge Street, North Hero, VT 05474
+- **GPS:** 44.88508°N, -73.27216°W
+- **Phone:** (802) 372-5131
+- **Website:** newenglandpowerboatservice.com
+- **Services:** Fuel, mechanical repairs and service, boat sales, seasonal dockage and storage
+- **Business Focus:** Powerboat service and dealership with marina at the North Hero-Alburgh bridge
+- **Notes:** Located at the Route 2 bridge between North Hero and Alburgh; contact ahead for transient space.
+
+---
+
+### 46. **Lakehurst Campground and Marina** - Mile 92.7
 - **Location:** Isle La Motte, VT
 - **Address:** 204 Lakehurst Trailer Park, Isle La Motte, VT
 - **GPS:** 44.90000°N, -73.32000°W
@@ -716,7 +789,20 @@
 
 ---
 
-### 42. **Safe Harbor Gaines** - Mile 98.9
+### 47. **Goose Point Campground & Marina** - Mile 94.3
+- **Location:** Alburgh, VT
+- **Address:** Goose Point Road, Alburgh, VT 05440
+- **GPS:** 44.92088°N, -73.27345°W
+- **Phone:** (802) 796-3711
+- **Website:** goosepointcamp.com
+- **Services:** Seasonal dockage, boat launch
+- **Amenities:** Campground, RV sites, restrooms/showers
+- **Business Focus:** Family campground with docks and lake access on the Alburgh shore
+- **Notes:** Primarily serves campers; seasonal slip availability only.
+
+---
+
+### 48. **Safe Harbor Gaines** - Mile 98.9
 - **Location:** Rouses Point, NY
 - **Address:** 141 Lake Street, Rouses Point, NY 12979
 - **GPS:** 44.99073°N, -73.36384°W
@@ -733,7 +819,7 @@
 
 ---
 
-### 43. **Barcombs Marina** - Mile 99.3
+### 49. **Barcombs Marina** - Mile 99.3
 - **Location:** Rouses Point, NY
 - **Address:** 90 Montgomery Street, Rouses Point, NY 12979
 - **GPS:** 44.99610°N, -73.35580°W
@@ -751,7 +837,7 @@
 
 ---
 
-### 44. **Lighthouse Marina** - Mile 99.4
+### 50. **Lighthouse Marina** - Mile 99.4
 - **Location:** Rouses Point, NY
 - **Address:** 62 Montgomery Street, Rouses Point, NY 12979
 - **GPS:** 44.99700°N, -73.35700°W
@@ -767,7 +853,7 @@
 
 ---
 
-### 45. **Rouses Point Yacht Club Inc.** - Mile 99.6
+### 51. **Rouses Point Yacht Club Inc.** - Mile 99.6
 - **Location:** Rouses Point, NY
 - **Address:** 129 Lake Street, Rouses Point, NY 12979
 - **GPS:** 45.00000°N, -73.36500°W
@@ -782,7 +868,7 @@
 
 ---
 
-### 46. **Rouses Point Yacht Club (Alburgh)** - Mile 100.3
+### 52. **Rouses Point Yacht Club (Alburgh)** - Mile 100.3
 - **Location:** Alburgh, VT
 - **Address:** Alburgh, VT
 - **GPS:** 45.01000°N, -73.31000°W
@@ -813,7 +899,7 @@
 - Avoiding shallow areas
 - Weather-related course adjustments
 
-**Fuel Stops:** Fuel is available at 33 marinas (70% of total). Major fuel stop clusters at:
+**Fuel Stops:** Fuel is available at 32 marinas (62% of total). Major fuel stop clusters at:
 - Mile 33-34 (Port Henry area)
 - Mile 64-69 (Burlington/Colchester - multiple options)
 - Mile 87-88 (Islands region)
@@ -828,16 +914,16 @@
 
 ## SUMMARY STATISTICS
 
-**Total Marinas:** 47
+**Total Marinas:** 52
 **Total Distance Covered:** 100.3 miles from Whitehall to northernmost marina
-**Average Spacing:** Approximately one marina every 2.1 miles
+**Average Spacing:** Approximately one marina every 1.9 miles
 
 **By State:**
-- **New York:** 21 marinas
-- **Vermont:** 26 marinas
+- **New York:** 22 marinas
+- **Vermont:** 30 marinas
 
-**Transient-Friendly Marinas:** 35 accept transient dockage (74%)
-**Members-Only/Limited Access:** 12 facilities (26%)
+**Transient-Friendly Marinas:** 41 accept transient dockage (79%)
+**Members-Only/Limited Access:** 11 facilities (21%)
 
 **Transient Rate Range:** $1.50 - $4.00 per foot per day
 - Most common: $2.00 - $2.50/ft
@@ -846,7 +932,7 @@
 
 ---
 
-*Last Updated: November 2025*
+*Last Updated: October 2026 - merged with the Vermont Boat and Marine Association member directory and the Marine Guide App database*
 *Distances calculated using Haversine formula from Whitehall Marina (Lock 12)*
 *All distances are straight-line measurements - add 10-20% for actual navigation distance*
 *Contact individual marinas to verify current services, pricing, and availability*
